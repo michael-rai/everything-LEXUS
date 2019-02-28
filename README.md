@@ -1,3 +1,5 @@
+![Imgur](https://i.imgur.com/o8EQqPS.jpg)
+
 Welcome to my Lexus Fan site. This site will be similar to Club Lexus ( https://www.clublexus.com/). In terms of fandom. This project is currently in development. Feel free to check back later for updates to this README file and the project as a whole.
 
 TECHNOLOGIES
